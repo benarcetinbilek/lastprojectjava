@@ -22,16 +22,16 @@ Before you get started, ensure you have the following prerequisites:
 ## Usage
 The Library Management System provides the following functionality:
 
- Add and manage books.
- Track clients.
- Loan books.
- Update book availability status.
- View and manage book loans.
+ Add and manage books.<br>
+ Track clients.<br>
+ Loan books.<br>
+ Update book availability status.<br>
+ View and manage book loans.<br>
  To use the application, you can interact with it through a web interface(port 8082) or a RESTful API..
 
 
 ## Project Structure
 The project is organized as follows:
-
-src/main/java: Contains the Java source code for the project.
+<br>
+src/main/java: Contains the Java source code for the project.<br>
 src/main/resources: Contains configuration files, including database setup.
