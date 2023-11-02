@@ -22,12 +22,12 @@ Before you get started, ensure you have the following prerequisites:
 ## Usage
 The Library Management System provides the following functionality:
 
-Add and manage books.
-Track clients.
-Loan books.
-Update book availability status.
-View and manage book loans.
-To use the application, you can interact with it through a web interface(port 8082) or a RESTful API..
+ Add and manage books.
+ Track clients.
+ Loan books.
+ Update book availability status.
+ View and manage book loans.
+ To use the application, you can interact with it through a web interface(port 8082) or a RESTful API..
 
 
 ## Project Structure
