@@ -17,7 +17,7 @@ Before you get started, ensure you have the following prerequisites:
 2. Open the project in your IDE.
 3. Configure the database connection properties in the application.properties file.
 4. Build the project.
-5.Run the application.
+5. Run the application
 
 ## Usage
 The Library Management System provides the following functionality:
