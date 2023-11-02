@@ -6,7 +6,7 @@ Before you get started, ensure you have the following prerequisites:
 
 - Java Development Kit (JDK) 8 or higher
 - An Integrated Development Environment (IDE) such as IntelliJ IDEA or Eclipse
-- A database system (e.g., HSQLDB, MySQL) and its setup (database connection properties, schema, etc.)
+- A database system HSQLDB 
 
 ## Setup
 
