@@ -35,3 +35,13 @@ The project is organized as follows:
 <br>
 src/main/java: Contains the Java source code for the project.<br>
 src/main/resources: Contains configuration files, including database setup.
+
+## UML Use Case Diagram
+![uml-use-case](https://github.com/benarcetinbilek/lastprojectjava/assets/99991013/4259c761-7afe-455a-a94c-2300e7d087e0)
+
+## Entity Relationship Diagram
+![erd](https://github.com/benarcetinbilek/lastprojectjava/assets/99991013/8ba20e87-0645-42e7-a455-65ecf10e748c)
+
+## UML Class Diagram
+![umlclass](https://github.com/benarcetinbilek/lastprojectjava/assets/99991013/6a36cf6f-fb90-47ff-921c-ff488acd2543)
+
